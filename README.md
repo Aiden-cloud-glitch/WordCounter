@@ -1,3 +1,1 @@
-# WordCounter
-
-WordCounter is a ..
+hello world !
